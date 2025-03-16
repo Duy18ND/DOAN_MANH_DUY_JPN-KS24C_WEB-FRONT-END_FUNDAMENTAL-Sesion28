@@ -85,4 +85,6 @@ do {
         }
 
         default:
-            alert("Lựa chọn không hợp lệ,
+            alert("Lựa chọn không hợp lệ");
+    }
+} while (choice !== 6);
